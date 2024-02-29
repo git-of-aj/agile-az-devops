@@ -5,7 +5,7 @@
 - [12 Principals Behind Agile](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 - [Harvard Business Review - Why & What = AGILE](https://hbr.org/2016/05/embracing-agile)
 
-### Agile Glossary
+### [Agile Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
 > Learn the unique terminology used in Agile development from the experts
 1. Acceptance Test: An acceptance test is a formal description of the behavior of a software product, generally expressed as an example or a usage scenario.
 2. Burndown Chart: 
