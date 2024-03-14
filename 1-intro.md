@@ -21,6 +21,7 @@ An epic is a large user story that cannot be delivered as defined within a singl
 
 # Scrum 
 [Long Doc](https://www.atlassian.com/agile/scrum)
+- [Scrum concepts azure boards](https://learn.microsoft.com/en-us/azure/devops/boards/sprints/scrum-key-concepts?view=azure-devops)
 
 # 2. Introducing Azure DevOps 
 
