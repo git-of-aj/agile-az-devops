@@ -22,6 +22,10 @@ To synchronize our local and remote repositories, we first fetch the change hist
 [Admin needs to Edit manually - what to keep ](https://sentry.io/answers/resolve-merge-conflicts-in-git/)
 
 --------------------------------------------------------------------------
+## Visual Studio Team Explorer - Just like Vs Code 
+[MS Docs](https://learn.microsoft.com/en-us/azure/devops/user-guide/work-team-explorer?view=azure-devops)
+
+
 # [DOUBT - NEED RE_CHECK]
 ### Now TFVC is Outdated amd Windows Explorer = File Explorer
 [MS DOCS](https://learn.microsoft.com/en-us/azure/devops/repos/tfvc/use-source-control-explorer-manage-files-under-version-control?view=azure-devops)
@@ -56,3 +60,10 @@ Team Foundation Version Control (TFVC) integration with Windows Explorer allows 
    - Keep Visual Studio updated to ensure compatibility and access to the latest features.
 
 By following these steps, you can seamlessly integrate TFVC with Windows Explorer and manage your source control operations directly from your file system.
+
+# 6. CI
+
+# 7. Monitor 
+[Query Backlog](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/filter-backlogs-boards-plans?view=azure-devops)
+[Kanban boards](https://learn.microsoft.com/en-us/devops/plan/what-is-kanban)
+[Tarck Bugs](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops)
