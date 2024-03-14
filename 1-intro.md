@@ -18,3 +18,10 @@ Continuous Integration is the practice of merging code changes into a shared rep
 
 5. Epic
 An epic is a large user story that cannot be delivered as defined within a single iteration or is large enough that it can be split into smaller user stories.
+
+# Scrum 
+[Long Doc](https://www.atlassian.com/agile/scrum)
+
+# 2. Introducing Azure DevOps 
+
+#
