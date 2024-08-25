@@ -62,3 +62,7 @@ https://www.simplilearn.com/project-estimation-techniques-article
 
 - Teams can use the board to update the status of requirements, and the Taskboard to update the status of tasks.
 ![](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/agile-process-workflow?view=azure-devops)
+
+![image](https://github.com/user-attachments/assets/1c441c4f-a525-4f30-be11-ea439e60492d)
+
+
