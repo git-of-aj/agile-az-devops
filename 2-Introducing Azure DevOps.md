@@ -52,3 +52,8 @@ https://www.simplilearn.com/project-estimation-techniques-article
 [Helps In repetable task](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/work-item-template?view=azure-devops)
 
 ### [Boards all portal options](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-work-in-the-web-portal)
+
+### Product Backlog 
+- Product owners should review the backlog before each iteration planning meeting to ensure prioritization is correct and feedback from the last iteration has been incorporated.
+- product owner is free to re-prioritize work in the backlog at any time due to customer feedback, refining estimates, and new requirements. 
+- [Blog Attlasian](https://www.atlassian.com/agile/scrum/backlogs)
