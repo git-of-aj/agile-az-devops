@@ -59,3 +59,6 @@ https://www.simplilearn.com/project-estimation-techniques-article
 - Product owners should review the backlog before each iteration planning meeting to ensure prioritization is correct and feedback from the last iteration has been incorporated.
 - product owner is free to re-prioritize work in the backlog at any time due to customer feedback, refining estimates, and new requirements. 
 - [Blog Attlasian](https://www.atlassian.com/agile/scrum/backlogs)
+
+- Teams can use the board to update the status of requirements, and the Taskboard to update the status of tasks.
+![](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/agile-process-workflow?view=azure-devops)
