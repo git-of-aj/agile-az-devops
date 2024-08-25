@@ -45,3 +45,10 @@ https://www.simplilearn.com/project-estimation-techniques-article
 #### Assignment 
 - You can assign a work item to one and only one user at a time.
 - If work is split across two or more users, consider creating separate work items that you'll assign to each user responsible for the work to complete
+
+#### [Work item states](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-active-open-resolved-or-closed-work-items)
+
+### Create Work Item Templates 
+[Helps In repetable task](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/work-item-template?view=azure-devops)
+
+### [Boards all portal options](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-work-in-the-web-portal)
