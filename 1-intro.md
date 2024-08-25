@@ -2,7 +2,9 @@
 
 - As as a human being, we want everything predictable
 - No one likes mismanagement
-- product management simplifies and streamlines software development and helps ensure smooth delivery 
+- product management simplifies and streamlines software development and helps ensure smooth delivery
+
+> Agile focus on people, Scrum on time 
 
 # Agile & Scrum
 ### AGILE
