@@ -19,18 +19,33 @@
 - [Team collaboration](https://learn.microsoft.com/en-us/azure/devops/organizations/settings/add-teams?view=azure-devops&tabs=preview-page)
 - [ Monitoring team progress ](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/configure-sprint-burndown?toc=%2Fazure%2Fdevops%2Fboards%2Ftoc.json&view=azure-devops&tabs=remaining-work%2Cmay)
 - https://learn.microsoft.com/en-us/azure/devops/organizations/settings/add-teams?view=azure-devops&tabs=preview-page
-- 
+  
 
 > if you prioritize a comprehensive set of DevOps tools for software development and delivery, Azure DevOps might be the right choice. However, if your focus is on project management and agile methodologies, Jira can be the better fit.
 
+```html
+👑Epics
+
+👑Website Updates for www.thecloudopscommunity.org
+  📗Homepage
+     ☑Designing a homepage header
+     ☑Standardizing fonts
+     ☑Fixing the homepage CSS to make it mobile responsive
+  📗About Us Page
+  📗Secure Sign-In
+  
+👑Cloud Migration
+👑CICD Implementation
+```
 
 
-
-Estimating and prioritising work item
-https://www.simplilearn.com/project-estimation-techniques-article
-
- https://learn.microsoft.com/en-us/azure/devops/boards/sprints/scrum-key-concepts?view=azure-devops
- https://learn.microsoft.com/en-us/azure/devops/report/dashboards/configure-sprint-burndown?toc=%2Fazure%2Fdevops%2Fboards%2Ftoc.json&view=azure-devops&tabs=remaining-work%2Cmay
+## TimeLines
+1. Scheduling start and end dates for releases and Sprint
+[Ms Docs](https://learn.microsoft.com/en-us/azure/devops/boards/sprints/define-sprints?view=azure-devops)
+2. Estimating and prioritising work item
+- https://www.simplilearn.com/project-estimation-techniques-article
+ - [Scrum Key Concepts](https://learn.microsoft.com/en-us/azure/devops/boards/sprints/scrum-key-concepts?view=azure-devops)
+ - [Sprint Burndown](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/configure-sprint-burndown?toc=%2Fazure%2Fdevops%2Fboards%2Ftoc.json&view=azure-devops&tabs=remaining-work%2Cmay)
 
  ## Azure Work Items Basics 
  - Use work items to track features and requirements you're developing
@@ -42,6 +57,7 @@ https://www.simplilearn.com/project-estimation-techniques-article
 - Example : Issue (Agile and CMMI) and Impediment (Scrum)
 - [Track bugs - show them on board/backlog](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-bugs-as-requirements-or-tasks)
 - Leave `it blank and assign it later, during a planning meeting` - Iteration and Area Path
+  
 #### Assignment 
 - You can assign a work item to one and only one user at a time.
 - If work is split across two or more users, consider creating separate work items that you'll assign to each user responsible for the work to complete
@@ -64,5 +80,7 @@ https://www.simplilearn.com/project-estimation-techniques-article
 ![](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/agile-process-workflow?view=azure-devops)
 
 ![image](https://github.com/user-attachments/assets/1c441c4f-a525-4f30-be11-ea439e60492d)
+
+
 
 
