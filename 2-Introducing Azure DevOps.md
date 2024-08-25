@@ -54,6 +54,8 @@ https://www.simplilearn.com/project-estimation-techniques-article
 ### [Boards all portal options](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-work-in-the-web-portal)
 
 ### Product Backlog 
+> product owner is a role on a Scrum team that is responsible for the project's outcome.
+> [From Scrum Docs](https://www.scrum.org/resources/what-is-a-product-owner)
 - Product owners should review the backlog before each iteration planning meeting to ensure prioritization is correct and feedback from the last iteration has been incorporated.
 - product owner is free to re-prioritize work in the backlog at any time due to customer feedback, refining estimates, and new requirements. 
 - [Blog Attlasian](https://www.atlassian.com/agile/scrum/backlogs)
