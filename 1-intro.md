@@ -1,3 +1,9 @@
+## Intro 
+
+- As as a human being, we want everything predictable
+- No one likes mismanagement
+- product management simplifies and streamlines software development and helps ensure smooth delivery 
+
 # Agile & Scrum
 ### AGILE
 > One thing that separates Agile from other approaches to software development is the focus on the people doing the work and how they work together.
