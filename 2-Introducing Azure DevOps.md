@@ -32,4 +32,16 @@ https://www.simplilearn.com/project-estimation-techniques-article
  https://learn.microsoft.com/en-us/azure/devops/boards/sprints/scrum-key-concepts?view=azure-devops
  https://learn.microsoft.com/en-us/azure/devops/report/dashboards/configure-sprint-burndown?toc=%2Fazure%2Fdevops%2Fboards%2Ftoc.json&view=azure-devops&tabs=remaining-work%2Cmay
 
- 
+ ## Azure Work Items Basics 
+ - Use work items to track features and requirements you're developing
+- Differs based on Process Type
+- Backlog =
+- below describe {WHAT CUSTOMER ACTUALLY WANT / SAID} : the customer value of the work to do and provide fields to track information about that work.
+- User Stories (Agile) == Issues (Basic) == Product Backlog Items (Scrum) == Requirements (CMMI)
+- **Problems** : nonwork project elements that can affect work getting done. *By default, they don't appear on any backlog or board.*
+- Example : Issue (Agile and CMMI) and Impediment (Scrum)
+- [Track bugs - show them on board/backlog](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-bugs-as-requirements-or-tasks)
+- Leave `it blank and assign it later, during a planning meeting` - Iteration and Area Path
+#### Assignment 
+- You can assign a work item to one and only one user at a time.
+- If work is split across two or more users, consider creating separate work items that you'll assign to each user responsible for the work to complete
