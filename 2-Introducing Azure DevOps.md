@@ -110,5 +110,7 @@ Burndown charts are useful for determining how quickly work is progressing based
 ## Velocity - [MS Docs](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/team-velocity?view=azure-devops&tabs=in-context)
 Velocity metrics provide useful information, so teams can plan and forecast sprints and determine how well they estimate and meet planned commitments. You can get an indication of how much work a team can complete during a sprint based on either a count of work items completed or the sum of estimates made for effort (product backlog items), story points (user stories), or size (requirements). Use velocity as an aid to determine team capacity and don't confuse it with key performance indicators.
 
+## Connect Power BI with Azure boards analytics view 
+[DDocs](https://learn.microsoft.com/en-us/azure/devops/report/powerbi/create-quick-report?view=azure-devops)
 
 
