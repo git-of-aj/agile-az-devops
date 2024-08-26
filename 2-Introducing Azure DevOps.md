@@ -96,4 +96,14 @@ talking about a project repository :
 - https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
 - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
+## Dashboards 
+1. Write Queries [Suggestions from MS Docs here]()
+2. Save Query to `Shared Folder`
+3. top ribbon => charts => select chart => `+add to dashboard`
+4. Its `vIsible in Dashboard Now`
+5. `Continous Sync => Add work items => shows Up :) `
+## Burndown Charts
+Burndown charts are useful for determining how quickly work is progressing based on a numeric field value, such as Story Points, Effort, or Remaining Work, or on a count of work items.
+> burndown chart of tasks, select the Sum operator for Remaining Work.
+
 
