@@ -97,13 +97,18 @@ talking about a project repository :
 - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
 ## Dashboards 
-1. Write Queries [Suggestions from MS Docs here]()
+1. Write Queries [Suggestions from MS Docs here](https://learn.microsoft.com/en-us/azure/devops/boards/queries/example-query-charts?view=azure-devops#maintain-backlog-hygiene)
 2. Save Query to `Shared Folder`
 3. top ribbon => charts => select chart => `+add to dashboard`
 4. Its `vIsible in Dashboard Now`
 5. `Continous Sync => Add work items => shows Up :) `
+6. **[Track progress with status and trend query-based charts](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/charts?view=azure-devops)**
 ## Burndown Charts
 Burndown charts are useful for determining how quickly work is progressing based on a numeric field value, such as Story Points, Effort, or Remaining Work, or on a count of work items.
 > burndown chart of tasks, select the Sum operator for Remaining Work.
+
+## Velocity - [MS Docs](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/team-velocity?view=azure-devops&tabs=in-context)
+Velocity metrics provide useful information, so teams can plan and forecast sprints and determine how well they estimate and meet planned commitments. You can get an indication of how much work a team can complete during a sprint based on either a count of work items completed or the sum of estimates made for effort (product backlog items), story points (user stories), or size (requirements). Use velocity as an aid to determine team capacity and don't confuse it with key performance indicators.
+
 
 
