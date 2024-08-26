@@ -81,6 +81,19 @@
 
 ![image](https://github.com/user-attachments/assets/1c441c4f-a525-4f30-be11-ea439e60492d)
 
+### Wiki
+- [ms docs]()
+- shows up every `md` file from selected folder (continuos sync)
+- [Md vs Readme vs Wiki - they complement](https://learn.microsoft.com/en-us/azure/devops/project/wiki/about-readme-wiki?view=azure-devops)
+- [How your Readme file should be?](https://learn.microsoft.com/en-us/azure/devops/project/wiki/about-readme-wiki?view=azure-devops#readmes)
 
+talking about a project repository :
+> A README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis.
+> getting started information (i.e. local setup), and leave the long form information such as application features, design principles, etc. in the wiki.
+- `Readme.md` is the packaging
+- `wiki pages` is made for development/contributors documentation
+- `gh-pages` branch hosts user documentation
+- https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
+- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
 
