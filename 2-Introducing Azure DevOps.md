@@ -77,6 +77,8 @@ org sesttings >> All processes >> Project Name >> Process Type >> Work item type
 
 ### Create Work Item Templates 
 [Helps In repetable task](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/work-item-template?view=azure-devops)
+- create work item => capture template
+- next create new (same work item type) => 3 dots => click on your template name
 
 ### [Boards all portal options](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-work-in-the-web-portal)
 
