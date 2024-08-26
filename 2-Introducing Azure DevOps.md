@@ -64,6 +64,17 @@
 
 #### [Work item states](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-active-open-resolved-or-closed-work-items)
 
+## Areas 
+> areas will be used by teams to determine what shows up on the team's backlog and what work items the team is responsible for.
+
+## Iterations
+- Teams plan and track work at regular time intervals, commonly referred to as an iteration or sprint. 
+- The iterations selected below will appear in the Sprints hub for your team. Each iteration will have a backlog and board to help your team plan and manage work.
+
+## Automation
+org sesttings >> All processes >> Project Name >> Process Type >> Work item type 
+- specify layout, state, automation rules
+
 ### Create Work Item Templates 
 [Helps In repetable task](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/work-item-template?view=azure-devops)
 
