@@ -128,6 +128,10 @@ talking about a project repository :
 5. `Continous Sync => Add work items => shows Up :) `
 6. **[Track progress with status and trend query-based charts](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/charts?view=azure-devops)**
    
+## Cycle Time and LEad Time
+![image](https://github.com/user-attachments/assets/6b51db71-5b72-4c78-8f0d-032416a274ea)
+
+- [MS Docs](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/cycle-time-and-lead-time?view=azure-devops)
 ## Burndown Charts
 Burndown charts are useful for determining how quickly work is progressing based on a numeric field value, such as Story Points, Effort, or Remaining Work, or on a count of work items.
 > burndown chart of tasks, select the Sum operator for Remaining Work.
