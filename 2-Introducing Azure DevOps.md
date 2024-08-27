@@ -68,6 +68,7 @@
 
 ## Areas 
 > areas will be used by teams to determine what shows up on the team's backlog and what work items the team is responsible for.
+> example : areas for release-1.0.0 release-1.2.0
 
 ## Iterations
 - Teams plan and track work at regular time intervals, commonly referred to as an iteration or sprint. 
