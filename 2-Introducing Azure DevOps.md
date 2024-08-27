@@ -98,6 +98,12 @@ org sesttings >> All processes >> Project Name >> Process Type >> Work item type
 
 ![image](https://github.com/user-attachments/assets/1c441c4f-a525-4f30-be11-ea439e60492d)
 
+## Boards and Backlogs in left side
+- boards : for PM : shows high level overwiew
+- backlogs: in agile you add the user story you need to work with
+- then (+) to add task within that user story
+- also in left side sprint (same thing show up) => change state from drop down => auto updated in azure boards boards
+- column name setting scroll down it shows what state = what column
 ### Wiki
 - [ms docs]()
 - shows up every `md` file from selected folder (continuos sync)
