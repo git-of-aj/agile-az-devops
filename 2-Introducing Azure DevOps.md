@@ -57,6 +57,8 @@
 - Example : Issue (Agile and CMMI) and Impediment (Scrum)
 - [Track bugs - show them on board/backlog](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-bugs-as-requirements-or-tasks)
 - Leave `it blank and assign it later, during a planning meeting` - Iteration and Area Path
+
+## [Real World - HOw to Add Work Item Methods and Best Parctices](https://www.vivienfabing.com/azure-devops/2020/04/30/azureboards-practical-example-before-sprint-planning.html)
   
 #### Assignment 
 - You can assign a work item to one and only one user at a time.
