@@ -84,6 +84,8 @@ org sesttings >> All processes >> Project Name >> Process Type >> Work item type
 
 ### [Boards all portal options](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-work-in-the-web-portal)
 
+> **The product owner owns the product backlog. The development team owns and maintains the sprint backlog. The product backlog forms part of a product's long-term strategic plan and evolves with the product. The sprint backlog is a short-term plan to accomplish a series of tasks within a sprint.**
+
 ### Product Backlog 
 > product owner is a role on a Scrum team that is responsible for the project's outcome.
 > [From Scrum Docs](https://www.scrum.org/resources/what-is-a-product-owner)
