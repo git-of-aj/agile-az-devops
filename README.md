@@ -1,5 +1,8 @@
 # agile-az-devops
 
+## AWS 
+agile vs DevOps : https://aws.amazon.com/compare/the-difference-between-agile-devops/
+
 ## Labs:
 1. [Devops End to ENd ](https://azuredevopslabs.com/labs/azuredevops/EndtoEnd/)
 2. [Agile with Boards](https://azuredevopslabs.com/labs/azuredevops/agile/)
