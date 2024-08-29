@@ -1,4 +1,4 @@
-Branching Strategy in GIT - Git Flow
+[Branching Strategy in GIT](https://medium.com/@dmosyan/version-control-branching-strategies-e68e8d5ef1e0)
 
 Git Flow is a branching strategy designed to streamline the development process and ensure code quality. It is widely used in software development projects and the detailed explanation is below:
 
@@ -14,3 +14,16 @@ This is the branch in which the code sits before the new release and it is creat
 This is used for critical fixes in production. It is created from the main and merged back into both main and develop after the fix.
 
 ![image](https://github.com/user-attachments/assets/e0b4cb2a-ceec-4ec9-bdf3-5d2307895a74)
+
+--
+What are some popular deployment strategies used in CI/CD pipelines?
+
+- 🔮 Rolling Deployment: Incrementally replaces instances of the previous version of an application with the new version without downtime.
+
+- 🔮 Blue-Green Deployment: Involves two identical environments, one hosting the current version (blue) and the other hosting the new version (green). Traffic is switched from blue to green once the new version is ready.
+
+- 🔮 Canary Deployment: Releases the new version to a small subset of users before rolling it out to the entire user base. This strategy allows for testing in production with real users and workloads.
+
+- 🔮 A/B Testing: Similar to canary deployments but specifically targets testing new features or changes among different user segments to compare performance.
+
+- 🔮 Feature Toggles (Feature Flags): Allows teams to enable or disable features in the application without deploying new code. This facilitates testing and gradual rollout of new features.
