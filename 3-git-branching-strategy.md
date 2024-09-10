@@ -16,6 +16,23 @@ Here is a list of the top 10 Git commands that I use daily in my work:
 - 💫 git log: Show commit logs.
 - 💫 git rebase: allows you to move or combine a sequence of commits to a new base commit. It is often used to maintain a clean and linear project history
 
+𝟭. 𝗴𝗶𝘁 𝗺𝗲𝗿𝗴𝗲 𝘃𝘀 𝗴𝗶𝘁 𝗿𝗲𝗯𝗮𝘀𝗲:
+- 𝘨𝘪𝘵 𝘮𝘦𝘳𝘨𝘦 combines branch changes with new merge commits
+- 𝘨𝘪𝘵 𝘳𝘦𝘣𝘢𝘴𝘦 moves branch changes on top, creating a linear history
+
+𝟮. 𝗴𝗶𝘁 𝗿𝗲𝘀𝗲𝘁 𝘃𝘀 𝗴𝗶𝘁 𝗿𝗲𝘃𝗲𝗿𝘁:
+- 𝘨𝘪𝘵 𝘳𝘦𝘴𝘦𝘵 undoes changes and moves the branch pointer, discarding subsequent commits
+- 𝘨𝘪𝘵 𝘳𝘦𝘷𝘦𝘳𝘵 creates new undo commits, preserving history
+
+𝟯. 𝗴𝗶𝘁 𝗳𝗲𝘁𝗰𝗵 𝘃𝘀 𝗴𝗶𝘁 𝗽𝘂𝗹𝗹:
+- 𝘨𝘪𝘵 𝘧𝘦𝘵𝘤𝘩 downloads remote changes without auto-merging
+- 𝘨𝘪𝘵 𝘱𝘶𝘭𝘭 fetches and auto-merges remote changes
+
+![image](https://github.com/user-attachments/assets/ddc507cd-3bbf-4af1-b097-5b0daec53eb9)
+
+  > However, it's crucial to exercise caution while executing certain commands, such as git revert versus git reset. The first question to ask is whether the commit is public (i.e., pushed to a remote server like GitHub). If it's public, then revert should be used; otherwise, reset is appropriate. Moreover, if any sensitive information is accidentally pushed, a different approach is necessary. Since GitHub doesn't support pre-commit actions, using post-commit actions like git filter-branch or tools like bfg may be required or use scanning solution like synk.
+Similarly, deciding between merge vs rebase depends on the team's workflow. Some teams prefer not to rewrite commit history, while others may use rebase in interactive mode to squash or edit commits. Additionally, GitHub now supports ort base merge, resulting in new commits for each merge, while locally, fast forward merge can be performed. As a result, all these tools are highly opinionated based on the team's practices.
+
 [Branching Strategy in GIT](https://medium.com/@dmosyan/version-control-branching-strategies-e68e8d5ef1e0)
 
 ## Trunk Based 
